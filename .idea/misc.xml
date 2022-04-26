@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/akdaz/AndroidStudioProjects/keyGENIE_androidApp/app/src/main/res/layout/activity_main.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/akdaz/AndroidStudioProjects/keyGENIE_androidApp/app/src/main/res/layout/activity_camera.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/akdaz/AndroidStudioProjects/keyGENIE_androidApp/app/src/main/res/layout/activity_gallery.xml" value="0.1887031408308004" />
+        <entry key="..\:/Users/akdaz/AndroidStudioProjects/keyGENIE_androidApp/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
